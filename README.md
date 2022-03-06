@@ -1,2 +1,1 @@
-# codepirateAd-
-React-Text-Manipulator
+# React-Text-Manipulator
