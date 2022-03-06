@@ -1,3 +1,4 @@
 # React-Text-Manipulator
 
-For source code go to gh-pages branch
+# For build files go to gh-pages branch
+# For source code go to master branch
